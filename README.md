@@ -37,6 +37,8 @@ To use this code, follow these steps:
     python train_predict.py --batch_num 64 --epoch_num 200 --cover_interval 20 --overlap 0.3 --save_model_dir './examples/saved_GNN_model'
     ```
 
+## Graph dataset
+[graph dataset download](https://drive.google.com/drive/folders/1iE5H7Fi3g3yTIZmL24y5xD0In58pHYyB?usp=share_link)
 
 ## Citation
 If you use this work or code in your research, please consider citing our [paper](https://arxiv.org/abs/2310.19274):

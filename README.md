@@ -39,7 +39,7 @@ To use this code, follow these steps:
 
 
 ## Citation
-If you use this work or code in your research, please consider to cite our [paper](https://arxiv.org/abs/2310.19274):
+If you use this work or code in your research, please consider citing our [paper](https://arxiv.org/abs/2310.19274):
 
     
     @article{chung2023prediction,

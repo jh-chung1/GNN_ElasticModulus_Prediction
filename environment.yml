@@ -1,0 +1,22 @@
+name: GNN_ElasticModulus_Prediction
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.9  
+  - numpy
+  - matplotlib
+  - scipy
+  - networkx
+  - scikit-learn
+  - torch
+  - torch-geometric
+  - atomman
+  - numba
+  - jupyter  # if you're using Jupyter notebooks
+  - pip
+  - pip:
+      - torch-sparse
+      - torch-scatter
+      - torch-cluster
+      - torch-spline-conv

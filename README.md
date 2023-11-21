@@ -23,7 +23,7 @@ To use this code, follow these steps:
 2. **Install Dependencies:**
     ```
     conda env create -f environment.yml
-    conda activate [env-name]
+    conda activate GNN_ElasticModulus_Prediction
     ```
     
 3. **Conver voxel data to graph data:**

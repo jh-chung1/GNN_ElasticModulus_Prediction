@@ -17,15 +17,15 @@ To use this code, follow these steps:
 
 1. **Clone the Repository:**
     ```
-    git clone [repository-url]
+    git clone https://github.com/jh-chung1/GNN_ElasticModulus_Prediction.git
     ```
-
-
+    
 2. **Install Dependencies:**
     ```
     conda env create -f environment.yml
     conda activate [env-name]
     ```
+    
 3. **Conver voxel data to graph data:**
     ```
     python mapper_DFS.py --start_no 1 --end_no 2 --subcube 90 --cover_interval 20 --overlap 0.3

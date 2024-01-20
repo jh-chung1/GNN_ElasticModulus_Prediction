@@ -43,14 +43,14 @@ To use this code, follow these steps:
 ## Citation
 If you use this work or code in your research, please consider citing our [paper](https://arxiv.org/abs/2310.19274):
 
-    
-@article{chung2024prediction,
-  title={Prediction of effective elastic moduli of rocks using Graph Neural Networks},
-  author={Chung, Jaehong and Ahmad, Rasool and Sun, WaiChing and Cai, Wei and Mukerji, Tapan},
-  journal={Computer Methods in Applied Mechanics and Engineering},
-  volume={421},
-  pages={116780},
-  year={2024},
-  publisher={Elsevier}
-}
-    
+    ```
+    @article{chung2024prediction,
+      title={Prediction of effective elastic moduli of rocks using Graph Neural Networks},
+      author={Chung, Jaehong and Ahmad, Rasool and Sun, WaiChing and Cai, Wei and Mukerji, Tapan},
+      journal={Computer Methods in Applied Mechanics and Engineering},
+      volume={421},
+      pages={116780},
+      year={2024},
+      publisher={Elsevier}
+    }
+    ```    

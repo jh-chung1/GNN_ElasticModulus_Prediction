@@ -41,7 +41,7 @@ To use this code, follow these steps:
 [graph dataset download](https://drive.google.com/drive/folders/1iE5H7Fi3g3yTIZmL24y5xD0In58pHYyB?usp=share_link)
 
 ## Citation
-If you use this work or code in your research, please consider citing our [paper](https://arxiv.org/abs/2310.19274):
+If you use this work or code in your research, please consider citing our [paper](https://www.sciencedirect.com/science/article/pii/S0045782524000367) [link 2](https://arxiv.org/abs/2310.19274):
 
 
     @article{chung2024prediction,

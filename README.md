@@ -38,7 +38,7 @@ To use this code, follow these steps:
     ```
 
 ## Graph dataset
-[graph dataset download](https://drive.google.com/drive/folders/1iE5H7Fi3g3yTIZmL24y5xD0In58pHYyB?usp=share_link)
+[graph dataset download](https://zenodo.org/records/11450686)
 
 ## Citation
 If you use this work or code in your research, please consider citing our [paper](https://www.sciencedirect.com/science/article/pii/S0045782524000367) ([link 2](https://arxiv.org/abs/2310.19274)):

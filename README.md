@@ -53,4 +53,13 @@ If you use this work or code in your research, please consider citing our [paper
       year={2024},
       publisher={Elsevier}
     }
+
+    @inproceedings{chung2024predicting,
+      title={Predicting Rock Fluid Transport and Mechanical Properties Using Graph Neural Networks},
+      author={Chung, J and Ahmad, R and Liu, M and Sun, WC and Cai, W and Mukerji, T},
+      booktitle={ARMA US Rock Mechanics/Geomechanics Symposium},
+      pages={D041S051R003},
+      year={2024},
+      organization={ARMA}
+    }
    
